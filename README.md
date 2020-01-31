@@ -1,1 +1,1 @@
-# propoint-printer-releases
+This repository contains releases for the ProPoint Printer application.
